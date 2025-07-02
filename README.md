@@ -1,43 +1,28 @@
-🧠 Basics-Of-Java
-This repository contains fundamental Java programs that cover almost every basic concept required for strong Java programming foundations.
+# Basics-Of-Java 🚀
 
-📚 What's Inside:
-🖥️ Simple input/output programs
+This repository contains **all types of basic Java programs** for beginners.  
+Each folder includes **a specific concept or question**, with cleanly written solutions and proper structure.
 
-🔁 Looping and conditional logic
+## 📁 What's Inside?
+- ✅ Area and Volume Calculations
+- ✅ Factorial and Number Properties
+- ✅ Loops and Patterns
+- ✅ Digit & Series Based Questions
+- ✅ Basic String and Math Problems
 
-🧮 Mathematical operations (factorials, primes, sums)
+## 💡 Ideal For:
+- Beginners learning Java
+- Practice for college assignments
+- Java interview preparation
 
-📐 Pattern printing
+## 🛠 Tools Used:
+- Java (JDK 17+)
+- IntelliJ IDEA
+- Git & GitHub
 
-🧱 Geometry problems (area, perimeter, volume)
+---
 
-🔠 String and number manipulation (to be added)
-
-✅ Suitable For:
-💻 Beginners learning Java
-
-🏫 B.Tech / College lab programs
-
-🔍 Java revision before interviews
-
-📘 Java practice for DSA foundation
-
-📂 Project Structure:
-Each folder contains:
-
-.java source files
-
-Logical programs grouped by topic (e.g., Loops, Patterns, Math)
-
-🚀 How to Run:
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/PolakiJayaKrishna/Basics-Of-Java.git
-Open with VS Code or IntelliJ
-
-Run the desired file from the src folder
+### 🔗 Follow for More:
+This is part of my daily upload challenge: **One Java file per day** to my repo.  
+Stay tuned and ⭐️ the repo if you find it useful!
 
